@@ -1,0 +1,39 @@
+{
+  "name": "sweet-ui",
+  "version": "1.0.0",
+  "description": "Using storybook to demo",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "bootstrap": "lerna bootstrap",
+    "start": "npm run storybook",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuietOmen/sweet-ui.git"
+  },
+  "keywords": [
+    "Sweet-ui",
+    "react"
+  ],
+  "author": "Bryce Hayden",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuietOmen/sweet-ui/issues"
+  },
+  "homepage": "https://github.com/QuietOmen/sweet-ui#readme",
+  "devDependencies": {
+    "@storybook/addon-actions": "^3.4.8",
+    "@storybook/addon-links": "^3.4.8",
+    "@storybook/addons": "^3.4.8",
+    "@storybook/react": "^3.4.8",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "lerna": "2.0.0-rc.4",
+    "prop-types": "15.6.2",
+    "react": "16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
