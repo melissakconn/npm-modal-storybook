@@ -1,5 +1,7 @@
 import styled from 'react-emotion'
 
 export const Container = styled('div')`
-  background: #333;
+  background-color: grey;
+  width: 200px;
+  height: 200px;
 `
