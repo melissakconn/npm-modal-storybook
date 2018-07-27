@@ -12,18 +12,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QuietOmen/sweet-ui.git"
+    "url": "git+https://github.com/melissakconn/sweet-ui.git"
   },
   "keywords": [
     "Sweet-ui",
     "react"
   ],
-  "author": "Bryce Hayden",
+  "author": "Melissa Conn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/QuietOmen/sweet-ui/issues"
+    "url": "https://github.com/melissakconn/sweet-ui/issues"
   },
-  "homepage": "https://github.com/QuietOmen/sweet-ui#readme",
+  "homepage": "https://github.com/melissakconn/sweet-ui#readme",
   "devDependencies": {
     "@storybook/addon-actions": "^3.4.8",
     "@storybook/addon-links": "^3.4.8",
