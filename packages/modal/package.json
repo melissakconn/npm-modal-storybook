@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/melissakconn/sweet-ui.git"
+    "url": "git+https://github.com/melissakconn/npm-modal-storybook.git"
   },
   "author": "Melissa Conn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/melissakconn/sweet-ui/issues"
+    "url": "https://github.com/melissakconn/npm-modal-storybook/issues"
   },
   "dependencies": {
     "emotion": "^9.2.6",
